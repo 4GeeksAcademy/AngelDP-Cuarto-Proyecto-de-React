@@ -1,0 +1,10 @@
+.base {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    max-height: 100vh;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgb(173, 137, 44);
+    border-radius: 5px;
+}

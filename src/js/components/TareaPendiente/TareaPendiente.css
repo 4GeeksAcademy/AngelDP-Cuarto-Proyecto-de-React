@@ -1,0 +1,21 @@
+li {
+    padding: 15px;
+    align-items: center;
+    font-size: 20px;
+}
+
+li:hover {
+    max-width: 90%;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+ul li button.btn {
+    display: none !important;
+}
+
+ul li:hover button.btn {
+    display: inline-block !important;
+    
+}
